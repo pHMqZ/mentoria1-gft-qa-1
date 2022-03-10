@@ -1,6 +1,7 @@
 <h1>Mentoria GFT QA #1 - Abstraindo situações do mundo real com POO</h1>
 
-<ol><h3>Objetivo principal é colocar em prática as principais ferramentas de orientação a Objetos:</h3>
+<h3>Objetivo principal é colocar em prática as principais ferramentas de orientação a Objetos:</h3>
+<ol>
     <li> Abstração;</li>
     <li> Encapsulamento;</li>
     <li> Herança;</li>
@@ -8,7 +9,8 @@
     <li> Polimorfismo.</li>
 </ol>
 
-<ol><h3> Pré-Requisitos:</h3>
+<h3> Pré-Requisitos:</h3>
+<ol>
     <li> Conhecer linguagem Java;</li>
     <li> Java 8 ou superior;</li>
     <li> IDE para desenvolvimento Java.</li>
@@ -22,7 +24,7 @@ A funcionalidade inicial é calcular bonificação dos colaboradores de acordo c
     <li>Vendedor é funcionário CLT e tem bonificação;</li>
     <li>Op. de caixa é funcionário CLT, mas sem bonificação;</li>
     <li>Gerente é funcionário PJ e tem bonificação.</li>
-<ul>
+</ul>
 
 <h4>Atributos dos colaboradores:</h4>
 <ol>
