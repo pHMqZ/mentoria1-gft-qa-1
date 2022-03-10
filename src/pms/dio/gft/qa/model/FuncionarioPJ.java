@@ -7,10 +7,10 @@ public abstract class FuncionarioPJ {
 	private Endereco endereco;
 	private Integer horasTrabalhadas;
 	private Double valorHora;
-	private Double valorRemuneracão;
+	private Double valorRemuneracao;
 	
 	public void calculaRemuneracao() {
-		this.valorRemuneracão = this.horasTrabalhadas * this.valorHora;
+		this.valorRemuneracao = this.horasTrabalhadas * this.valorHora;
 	}
 
 	public String getNome() {
@@ -53,12 +53,12 @@ public abstract class FuncionarioPJ {
 		this.valorHora = valorHora;
 	}
 
-	public Double getValorRemuneracão() {
-		return valorRemuneracão;
+	public Double getValorRemuneracao() {
+		return valorRemuneracao;
 	}
 
-	public void setValorRemuneracão(Double valorRemuneracão) {
-		this.valorRemuneracão = valorRemuneracão;
+	public void setValorRemuneracao(Double valorRemuneracao) {
+		this.valorRemuneracao = valorRemuneracao;
 	}
 	
 	
